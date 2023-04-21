@@ -4,7 +4,7 @@ I'm not sure about exactly where they come, but the first information about this
 
 <img src="https://user-images.githubusercontent.com/3518964/233577634-3adc3129-0986-48e8-a69a-8d064c81dece.png" widht="30%" height="30%" title="Old forum post about nanashi">
 
-But what makes a Nanashi shrimp? Basicly Nanashi is a Pinto shrimp with some patterns and is a group of patterns, is not only one.
+But what makes a Nanashi shrimp? Basicly Nanashi is a Taitibee Pinto shrimp with some patterns and is a group of patterns, is not only one.
 
 I really try to find good descriptions (maybe some draws...) about the standard but I fail :(. So I'm collecting information from youtube videos and will try to write here the standard. Probably I will understand something wrong, if you found some opportunity to inprove this definition, please open an issue and send a update :-D 
 
