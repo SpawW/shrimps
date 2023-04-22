@@ -11,3 +11,6 @@ The objective of this repository is create a database with information about the
     - [Nanashi](./nanashi.md)
         - Nanashi Advanced
         - Tiger
+
+In progress
+- [Shadow Mosura](./shadow_mosura.md)
